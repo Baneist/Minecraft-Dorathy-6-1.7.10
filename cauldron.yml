@@ -18,9 +18,9 @@ world-environment-settings:
 world-settings:
   default:
     entity-despawn-immediate: false
-    worldgen-CoFHCore-WorldHandler: true
-    worldgen-IC2-IC2: true
     worldgen-gregtech-GT_Worldgenerator: true
+    worldgen-IC2-IC2: true
+    worldgen-CoFHCore-WorldHandler: true
 plugin-settings:
   default:
     custom-class-loader: true
