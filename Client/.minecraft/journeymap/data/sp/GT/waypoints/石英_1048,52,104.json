@@ -1,0 +1,17 @@
+{
+  "id": "石英_1048,52,104",
+  "name": "石英",
+  "icon": "waypoint-normal.png",
+  "x": 1048,
+  "y": 52,
+  "z": 104,
+  "r": 246,
+  "g": 255,
+  "b": 241,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

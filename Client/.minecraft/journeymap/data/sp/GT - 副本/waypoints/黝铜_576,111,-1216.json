@@ -1,0 +1,17 @@
+{
+  "id": "黝铜_576,111,-1216",
+  "name": "黝铜",
+  "icon": "waypoint-normal.png",
+  "x": 576,
+  "y": 111,
+  "z": -1216,
+  "r": 28,
+  "g": 140,
+  "b": 142,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

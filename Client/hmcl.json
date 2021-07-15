@@ -1,0 +1,49 @@
+{
+  "username": "Baneist",
+  "clientToken": "0930104d-ce26-440d-b3b6-097283c5f51c",
+  "enableShadow": true,
+  "theme": 0,
+  "java": [
+    {
+      "ver": "1.8.0_101",
+      "platform": 2,
+      "location": "C:\\Program Files\\Java\\jre1.8.0_101\\bin"
+    },
+    {
+      "ver": "1.8.0_201",
+      "platform": 2,
+      "location": "C:\\Program Files\\Java\\jre1.8.0_201\\bin"
+    },
+    {
+      "ver": "1.8.0_211",
+      "platform": 2,
+      "location": "C:\\Program Files\\Java\\jre1.8.0_211\\bin"
+    },
+    {
+      "ver": "1.8.0_261",
+      "platform": 2,
+      "location": "C:\\Program Files\\Java\\jre1.8.0_261\\bin"
+    }
+  ],
+  "logintype": 0,
+  "downloadtype": 0,
+  "configurations": {
+    "Default": {
+      "name": "Default",
+      "selectedMinecraftVersion": "1.7.10-Forge10.13.4.1558-1.7.10",
+      "minecraftArgs": "",
+      "gameDir": ".\\.minecraft",
+      "javaDir": "",
+      "precalledCommand": "",
+      "serverIp": "",
+      "java": "Default",
+      "fullscreen": false,
+      "debug": false,
+      "noJVMArgs": false,
+      "canceledWrapper": false,
+      "launcherVisibility": 0,
+      "gameDirType": 0
+    }
+  },
+  "yggdrasil": {}
+}

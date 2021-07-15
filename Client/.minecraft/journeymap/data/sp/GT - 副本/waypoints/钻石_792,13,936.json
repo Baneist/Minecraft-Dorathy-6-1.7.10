@@ -1,0 +1,17 @@
+{
+  "id": "钻石_792,13,936",
+  "name": "钻石",
+  "icon": "waypoint-normal.png",
+  "x": 792,
+  "y": 13,
+  "z": 936,
+  "r": 212,
+  "g": 101,
+  "b": 16,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

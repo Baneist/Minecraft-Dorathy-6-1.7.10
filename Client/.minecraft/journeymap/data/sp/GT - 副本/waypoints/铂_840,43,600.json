@@ -1,0 +1,17 @@
+{
+  "id": "铂_840,43,600",
+  "name": "铂",
+  "icon": "waypoint-normal.png",
+  "x": 840,
+  "y": 43,
+  "z": 600,
+  "r": 120,
+  "g": 166,
+  "b": 114,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "石英岩_792,53,1080",
+  "name": "石英岩",
+  "icon": "waypoint-normal.png",
+  "x": 792,
+  "y": 53,
+  "z": 1080,
+  "r": 1,
+  "g": 106,
+  "b": 52,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

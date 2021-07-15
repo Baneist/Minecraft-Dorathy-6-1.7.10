@@ -1,0 +1,17 @@
+{
+  "id": "锰_1224,19,600",
+  "name": "锰",
+  "icon": "waypoint-normal.png",
+  "x": 1224,
+  "y": 19,
+  "z": 600,
+  "r": 161,
+  "g": 233,
+  "b": 161,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

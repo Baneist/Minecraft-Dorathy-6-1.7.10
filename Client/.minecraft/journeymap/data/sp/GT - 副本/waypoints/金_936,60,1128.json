@@ -1,0 +1,17 @@
+{
+  "id": "金_936,60,1128",
+  "name": "金",
+  "icon": "waypoint-normal.png",
+  "x": 936,
+  "y": 60,
+  "z": 1128,
+  "r": 62,
+  "g": 117,
+  "b": 132,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

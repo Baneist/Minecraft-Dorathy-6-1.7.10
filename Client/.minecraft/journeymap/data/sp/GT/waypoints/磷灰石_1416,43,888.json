@@ -1,0 +1,17 @@
+{
+  "id": "磷灰石_1416,43,888",
+  "name": "磷灰石",
+  "icon": "waypoint-normal.png",
+  "x": 1416,
+  "y": 43,
+  "z": 888,
+  "r": 157,
+  "g": 60,
+  "b": 228,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "采掘砖块_907,70,861",
+  "name": "采掘砖块",
+  "icon": "waypoint-normal.png",
+  "x": 907,
+  "y": 70,
+  "z": 861,
+  "r": 246,
+  "g": 255,
+  "b": 241,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

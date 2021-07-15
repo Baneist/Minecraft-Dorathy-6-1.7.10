@@ -1,0 +1,17 @@
+{
+  "id": "钨酸盐_1464,41,744",
+  "name": "钨酸盐",
+  "icon": "waypoint-normal.png",
+  "x": 1464,
+  "y": 41,
+  "z": 744,
+  "r": 49,
+  "g": 133,
+  "b": 90,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

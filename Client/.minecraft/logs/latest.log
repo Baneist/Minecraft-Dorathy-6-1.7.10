@@ -1,0 +1,41 @@
+[19:51:09] [main/INFO]: Setting user: Baneist
+[19:51:14] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:51:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Advanced Solar Panels, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:GregTech, FMLFileResourcePack:GT Vein-Locator, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:InstantLava, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Scenter, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:Diracon, FMLFileResourcePack:Enhanced Survival, FMLFileResourcePack:bspkrsCore
+[19:51:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Scenter in C:\Games\Minecraft\Dorathy-5\.minecraft\mods\Scentor-1.7.10-3.2.0.jar
+[19:51:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Scenter in C:\Games\Minecraft\Dorathy-5\.minecraft\mods\Scentor-1.7.10-3.2.0.jar
+[19:52:04] [Sound Library Loader/INFO]: Sound engine started
+[19:52:06] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:52:06] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:53:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Advanced Solar Panels, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:GregTech, FMLFileResourcePack:GT Vein-Locator, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:InstantLava, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Scenter, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Waila, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:Diracon, FMLFileResourcePack:Enhanced Survival, FMLFileResourcePack:bspkrsCore
+[19:53:14] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Scenter in C:\Games\Minecraft\Dorathy-5\.minecraft\mods\Scentor-1.7.10-3.2.0.jar
+[19:53:14] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Scenter in C:\Games\Minecraft\Dorathy-5\.minecraft\mods\Scentor-1.7.10-3.2.0.jar
+[19:53:22] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[19:53:27] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[19:53:27] [Sound Library Loader/INFO]: Sound engine started
+[19:54:03] [Texture Downloader #4/ERROR]: Couldn't download http texture
+java.net.MalformedURLException
+	at java.net.URL.<init>(Unknown Source) ~[?:1.8.0_261]
+	at java.net.URL.<init>(Unknown Source) ~[?:1.8.0_261]
+	at java.net.URL.<init>(Unknown Source) ~[?:1.8.0_261]
+	at net.minecraft.client.renderer.ThreadDownloadImageData$1.run(ThreadDownloadImageData.java:126) [bps.class:?]
+Caused by: java.lang.NullPointerException
+	... 4 more
+[19:54:03] [Texture Downloader #2/ERROR]: Couldn't download http texture
+java.net.MalformedURLException
+	at java.net.URL.<init>(Unknown Source) ~[?:1.8.0_261]
+	at java.net.URL.<init>(Unknown Source) ~[?:1.8.0_261]
+	at java.net.URL.<init>(Unknown Source) ~[?:1.8.0_261]
+	at net.minecraft.client.renderer.ThreadDownloadImageData$1.run(ThreadDownloadImageData.java:126) [bps.class:?]
+Caused by: java.lang.NullPointerException
+	... 4 more
+[19:54:07] [Client thread/INFO]: Connecting to mc.baneist.ml, 25565
+[19:54:10] [Client thread/INFO]: Connecting to mc.baneist.ml, 25565
+[19:54:37] [Client thread/INFO]: Connecting to mc.baneist.ml, 25565
+[19:54:39] [Client thread/INFO]: [CHAT] Baneist joined the game.
+[19:54:44] [Client thread/INFO]: [CHAT] Damage Indicators was unable to check for updates!
+[19:54:44] [Client thread/INFO]: [CHAT] Version 1.0.7.48 of CodeChickenCore is available
+[19:54:44] [Client thread/INFO]: [CHAT] Version 1.0.5.120 of NotEnoughItems is available
+[19:54:45] [Client thread/INFO]: [CHAT] InvTweaks: 配置文件已载入
+[19:54:45] [Client thread/INFO]: [CHAT] Moved Permanently 
+[19:54:47] [Client thread/INFO]: [CHAT] §eJourneyMap:§f 按下[§bV§f]键
+[19:55:14] [Client thread/INFO]: Stopping!

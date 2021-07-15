@@ -1,0 +1,17 @@
+{
+  "id": "红石_1320,33,840",
+  "name": "红石",
+  "icon": "waypoint-normal.png",
+  "x": 1320,
+  "y": 33,
+  "z": 840,
+  "r": 225,
+  "g": 46,
+  "b": 87,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

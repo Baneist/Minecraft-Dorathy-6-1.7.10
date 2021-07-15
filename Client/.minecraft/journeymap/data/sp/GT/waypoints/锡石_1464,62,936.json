@@ -1,0 +1,17 @@
+{
+  "id": "锡石_1464,62,936",
+  "name": "锡石",
+  "icon": "waypoint-normal.png",
+  "x": 1464,
+  "y": 62,
+  "z": 936,
+  "r": 43,
+  "g": 138,
+  "b": 32,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

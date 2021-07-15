@@ -1,0 +1,17 @@
+{
+  "id": "岩盐_984,49,1080",
+  "name": "岩盐",
+  "icon": "waypoint-normal.png",
+  "x": 984,
+  "y": 49,
+  "z": 1080,
+  "r": 170,
+  "g": 50,
+  "b": 70,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

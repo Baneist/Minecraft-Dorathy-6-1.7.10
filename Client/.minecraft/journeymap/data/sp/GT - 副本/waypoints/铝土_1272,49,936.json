@@ -1,0 +1,17 @@
+{
+  "id": "铝土_1272,49,936",
+  "name": "铝土",
+  "icon": "waypoint-normal.png",
+  "x": 1272,
+  "y": 49,
+  "z": 936,
+  "r": 100,
+  "g": 80,
+  "b": 5,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

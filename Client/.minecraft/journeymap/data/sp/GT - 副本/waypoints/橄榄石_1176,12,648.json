@@ -1,0 +1,17 @@
+{
+  "id": "橄榄石_1176,12,648",
+  "name": "橄榄石",
+  "icon": "waypoint-normal.png",
+  "x": 1176,
+  "y": 12,
+  "z": 648,
+  "r": 16,
+  "g": 0,
+  "b": 100,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

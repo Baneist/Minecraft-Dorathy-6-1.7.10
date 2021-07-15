@@ -1,0 +1,17 @@
+{
+  "id": "煤_744,67,648",
+  "name": "煤",
+  "icon": "waypoint-normal.png",
+  "x": 744,
+  "y": 67,
+  "z": 648,
+  "r": 244,
+  "g": 237,
+  "b": 8,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "铜_3264,10,192",
+  "name": "铜",
+  "icon": "waypoint-normal.png",
+  "x": 3264,
+  "y": 10,
+  "z": 192,
+  "r": 135,
+  "g": 150,
+  "b": 22,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

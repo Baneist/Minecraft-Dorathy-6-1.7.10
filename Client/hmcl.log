@@ -1,0 +1,33 @@
+[19:50:28][main/INFO] *** Hello Minecraft! Launcher 2.3.5.4 ***
+[19:50:34][main/INFO] Initialized settings.
+[19:50:34][UpdateChecker/WARN] Failed to get update url.
+java.net.UnknownHostException: huangyuhui.duapp.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at org.jackhuang.hellominecraft.utils.NetUtils.doGet(NetUtils.java:66)
+	at org.jackhuang.hellominecraft.utils.NetUtils.doGet(NetUtils.java:70)
+	at org.jackhuang.hellominecraft.utils.UpdateChecker.run(UpdateChecker.java:50)
+[19:50:51][AWT-EventQueue-0/INFO] Start generating launching command...
+[19:50:55][Game Launcher/INFO] *** Make shell command ***
+[19:50:55][Game Launcher/INFO] On making head command.
+[19:50:55][Game Launcher/INFO] Java Version: 1.8.0_261
+[19:50:55][Game Launcher/INFO] Java Platform: 64
+[19:50:55][Game Launcher/INFO] System Platform: 64
+[19:50:55][Game Launcher/INFO] System Physical Memory: 8095
+[19:50:56][Game Launcher/INFO] On making launcher args.
+[19:50:56][Game Launcher/INFO] Starting process

@@ -1,0 +1,17 @@
+{
+  "id": "独居石_1080,26,840",
+  "name": "独居石",
+  "icon": "waypoint-normal.png",
+  "x": 1080,
+  "y": 26,
+  "z": 840,
+  "r": 232,
+  "g": 105,
+  "b": 180,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

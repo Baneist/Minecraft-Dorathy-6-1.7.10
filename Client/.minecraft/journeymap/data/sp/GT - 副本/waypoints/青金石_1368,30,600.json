@@ -1,0 +1,17 @@
+{
+  "id": "青金石_1368,30,600",
+  "name": "青金石",
+  "icon": "waypoint-normal.png",
+  "x": 1368,
+  "y": 30,
+  "z": 600,
+  "r": 139,
+  "g": 24,
+  "b": 194,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "皂石_936,11,552",
+  "name": "皂石",
+  "icon": "waypoint-normal.png",
+  "x": 936,
+  "y": 11,
+  "z": 552,
+  "r": 5,
+  "g": 100,
+  "b": 11,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

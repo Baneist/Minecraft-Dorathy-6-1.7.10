@@ -1,0 +1,17 @@
+{
+  "id": "镍_3264,17,-448",
+  "name": "镍",
+  "icon": "waypoint-normal.png",
+  "x": 3264,
+  "y": 17,
+  "z": -448,
+  "r": 71,
+  "g": 100,
+  "b": 62,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

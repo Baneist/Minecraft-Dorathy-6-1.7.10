@@ -1,0 +1,17 @@
+{
+  "id": "方铅矿_1368,35,984",
+  "name": "方铅矿",
+  "icon": "waypoint-normal.png",
+  "x": 1368,
+  "y": 35,
+  "z": 984,
+  "r": 137,
+  "g": 252,
+  "b": 100,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

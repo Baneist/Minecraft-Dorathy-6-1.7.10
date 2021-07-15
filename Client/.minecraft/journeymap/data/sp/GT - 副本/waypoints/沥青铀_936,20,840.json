@@ -1,0 +1,17 @@
+{
+  "id": "沥青铀_936,20,840",
+  "name": "沥青铀",
+  "icon": "waypoint-normal.png",
+  "x": 936,
+  "y": 20,
+  "z": 840,
+  "r": 161,
+  "g": 162,
+  "b": 169,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "磁铁_192,97,-64",
+  "name": "磁铁",
+  "icon": "waypoint-normal.png",
+  "x": 192,
+  "y": 97,
+  "z": -64,
+  "r": 111,
+  "g": 234,
+  "b": 26,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "硫_2880,8,960",
+  "name": "硫",
+  "icon": "waypoint-normal.png",
+  "x": 2880,
+  "y": 8,
+  "z": 960,
+  "r": 244,
+  "g": 211,
+  "b": 52,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

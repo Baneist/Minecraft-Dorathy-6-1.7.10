@@ -1,0 +1,17 @@
+{
+  "id": "蓝宝石_888,21,1032",
+  "name": "蓝宝石",
+  "icon": "waypoint-normal.png",
+  "x": 888,
+  "y": 21,
+  "z": 1032,
+  "r": 254,
+  "g": 98,
+  "b": 18,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

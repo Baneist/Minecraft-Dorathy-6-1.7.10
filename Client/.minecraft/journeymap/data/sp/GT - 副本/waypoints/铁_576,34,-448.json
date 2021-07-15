@@ -1,0 +1,17 @@
+{
+  "id": "铁_576,34,-448",
+  "name": "铁",
+  "icon": "waypoint-normal.png",
+  "x": 576,
+  "y": 34,
+  "z": -448,
+  "r": 100,
+  "g": 34,
+  "b": 6,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
