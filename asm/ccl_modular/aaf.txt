@@ -1,4 +1,0 @@
-  private I i
-
-  // access flags 0x2
-  private I j
